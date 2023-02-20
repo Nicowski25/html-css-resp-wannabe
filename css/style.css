@@ -130,7 +130,7 @@ img {
 
 @media screen and (max-width: 768px) {
     .container {
-        width: 768px;
+        width: 80%;
     }
 
     .lessons .col img {
@@ -153,7 +153,7 @@ img {
 
 @media screen and (max-width: 480px) {
     .container {
-        width: 480px;
+        width: 80%;
     }
 
     .row {
